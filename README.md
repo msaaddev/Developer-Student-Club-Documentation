@@ -22,5 +22,7 @@
 <div>
 <h2 style="color: #0B5394; font-family: Times New Roman">👨‍💻 Standard Operating Procedures</h2>
 🍭 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/graphics_team.md">Graphics Team → </a>
+<br>
+ 📈 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/marketing_team.md">Marketing Team →</a>
 
 </div>
