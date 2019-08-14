@@ -24,5 +24,6 @@
 🍭 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/graphics_team.md">Graphics Team → </a>
 <br>
  📈 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/marketing_team.md">Marketing Team →</a>
-
+<br>
+✍ <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/publication_team.md">Publication Team →</a>
 </div>
