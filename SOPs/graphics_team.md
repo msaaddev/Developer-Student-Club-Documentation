@@ -6,7 +6,7 @@
 <img src="https://dzwonsemrish7.cloudfront.net/items/3n3N3Z35091y3k131M0X/Image%202019-08-13%20at%203.44.24%20PM.png?v=a160c865" alt="Developer Student Club (DSC) powered by Google Developers">
 </div>
 
-<h3>🍭 Graphics Team</h3>
+<h2>🍭 Graphics Team</h2    >
 
 - The tasks will be equally distributed between the team members ensuring the no team member is overburdened.
 - The task will be conveyed to the Graphics Lead and the lead has to allocate the task to a member of the design team. If the Design Lead doesn’t reply within four hours, then the DSC Lead will assign the task to a member.

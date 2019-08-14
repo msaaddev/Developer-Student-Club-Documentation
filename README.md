@@ -21,7 +21,6 @@
 <!-- Standard Operating Procedures -->
 <div>
 <h2 style="color: #0B5394; font-family: Times New Roman">👨‍💻 Standard Operating Procedures</h2>
-<br>
-<h3>🍭 Graphics Team ➡</h3>
+<a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/graphics_team.md"> 🍭 Graphics Team → </a>
 
 </div>
