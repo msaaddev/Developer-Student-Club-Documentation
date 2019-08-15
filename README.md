@@ -26,9 +26,9 @@
  📈 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/marketing_team.md">Marketing Team →</a>
 <br>
 ✍ <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/publication_team.md">Publication Team →</a>
-
+<br>
 ⚡ <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/dev_team.md"> Dev Team →</a>
-
+<br>
 🏗 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/creative_and_management_team.md">Creative and Management Team →</a>
 
 </div>
