@@ -6,6 +6,11 @@
 <img src="https://dzwonsemrish7.cloudfront.net/items/3n3N3Z35091y3k131M0X/Image%202019-08-13%20at%203.44.24%20PM.png?v=a160c865" alt="Developer Student Club (DSC) powered by Google Developers">
 </div>
 
+<!-- What is DSC!? -->
+<div>
+<h2>🤔 What is DSC!?</h2>
+<p style="font-family: Calibri">The Developer Student Clubs (DSC) program is a grassroots channel through which Google provides development skills for students, towards <strong>employability</strong>. In addition to workshops, Google also provides an opportunity for students to apply their newly gained skills to develop solutions for local organizations, and then provide visibility via showcases.</p>
+</div>
 <!-- DSC Mission -->
 <div>
 <h2>🚀 Mission:</h2>
