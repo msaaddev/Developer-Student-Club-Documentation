@@ -11,9 +11,9 @@
 - The tasks will be equally distributed between the team members ensuring the no team member is overburdened.
 - The task will be conveyed to the Graphics Lead and the lead has to allocate the task to a member of the design team. If the Design Lead doesn’t reply within four hours, then the DSC Lead will assign the task to a member.
 - If a member knows that he/she cannot complete the task within the deadline due to some reason, he has to inform the team lead.
-- The task’s deadline will be given according to the circumstances, however on average; the member will be given at least 5-6 hours to complete the task.
+- The task’s deadline will be given according to the circumstances, however on average; the member will be given at least 24 hours to complete the task.
 
-**Note:** This time limit of 5-6 hours can change as well depending upon the kind of task at hand.
+**Note:** This time limit of 24 hours can change as well depending upon the kind of task at hand.
 
 - If a task has to be assigned then, the details of that task will be posted in the group as well.
 - The written content (if required) will be provided by the publications team or the one assigning the task.
