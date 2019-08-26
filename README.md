@@ -41,7 +41,7 @@
 <h2 style="color: #0B5394; font-family: Times New Roman">👨‍💻 Standard Operating Procedures</h2>
 🍭 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/graphics_team.md">Graphics Team → </a>
 <br>
-👦 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/marketing_team.md">Public Relations and Marketing Team →</a>
+👦 <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/public_relations_marketing_team.md">Public Relations and Marketing Team →</a>
 <br>
 ✍ <a href="https://github.com/msaaddev/Developer-Student-Club-Documentation/blob/master/SOPs/publication_team.md">Publication Team →</a>
 <br>
