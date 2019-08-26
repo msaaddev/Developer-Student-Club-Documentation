@@ -20,7 +20,7 @@
 <!-- DSC Hierarchy -->
 <h2 style="color: #0B5394; font-family: Times New Roman; text-align: left">🎩 Hierarchy:</h2>
 <div align="center">
-<img src="https://dzwonsemrish7.cloudfront.net/items/2U2m3L1V0V454729202s/Image%202019-08-13%20at%203.54.19%20PM.png?v=64dfca43" alt="Hierarchy">
+<img src="https://dzwonsemrish7.cloudfront.net/items/3t2x270s1g3e133O2w1w/Image%202019-08-26%20at%206.00.38%20PM.png?v=12f65dfe" alt="Hierarchy">
 </div>
 
 <div>
@@ -34,7 +34,7 @@
 - Any disrespect among the general body of the DSC community will not be tolerated.
 - Any kind of immoral activity among the DSC community will not be tolerated.
 - Any member who does not follow the code of conduct will be removed from the community.
-</div>
+  </div>
 
 <!-- Standard Operating Procedures -->
 <div>
